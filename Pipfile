@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 micropy-cli = "*"
 esptool = "*"
+starlette = "*"
+websocket-client = "*"
 
 [dev-packages]
 
